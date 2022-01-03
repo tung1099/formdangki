@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12985d7e-8761-4fca-8046-5ac86420313b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/form lay survey khach hang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="b24f8886-4512-4e03-8ae3-756357dfd075" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/form dang ky nguoi dung.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +26,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="237dVEvq3K31buXtjrtqkb4dYgT" />
+  <component name="ProjectId" id="239ErY7KYFPFbSyyKH8oCoLumx5" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,12 +45,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="12985d7e-8761-4fca-8046-5ac86420313b" name="Changes" comment="" />
-      <created>1641089080645</created>
+      <changelist id="b24f8886-4512-4e03-8ae3-756357dfd075" name="Changes" comment="" />
+      <created>1641138101616</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1641089080645</updated>
-      <workItem from="1641089081951" duration="6042000" />
+      <updated>1641138101616</updated>
+      <workItem from="1641138102804" duration="2273000" />
     </task>
     <servers />
   </component>
