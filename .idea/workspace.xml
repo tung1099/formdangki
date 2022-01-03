@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b24f8886-4512-4e03-8ae3-756357dfd075" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/form dang ky nguoi dung.html" afterDir="false" />
+    <list default="true" id="012a1bbe-5b5a-410d-b7d7-faa2e78ba1e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/table simple.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +26,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="239ErY7KYFPFbSyyKH8oCoLumx5" />
+  <component name="ProjectId" id="23AQgoqZzbUK5Po0odU8ZxJgrjY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,12 +45,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b24f8886-4512-4e03-8ae3-756357dfd075" name="Changes" comment="" />
-      <created>1641138101616</created>
+      <changelist id="012a1bbe-5b5a-410d-b7d7-faa2e78ba1e6" name="Changes" comment="" />
+      <created>1641174526082</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1641138101616</updated>
-      <workItem from="1641138102804" duration="2273000" />
+      <updated>1641174526082</updated>
+      <workItem from="1641174527319" duration="4095000" />
     </task>
     <servers />
   </component>
